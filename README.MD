@@ -6,7 +6,6 @@ Make your discord bot send a POST request to the minecraft servers IP Address an
 - [ ] Add config
 - [ ] Add buildable jar
 - [ ] Make (Example) discord bot
-- 
 ## Example usage
 
 **NODE JS**

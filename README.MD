@@ -2,6 +2,11 @@
 Simple minecraft 1.8.8 discord awards plugin using **SPARK**.
 Make your discord bot send a POST request to the minecraft servers IP Address and give your player a reward!
 
+## TODO
+- [ ] Add config
+- [ ] Add buildable jar
+- [ ] Make (Example) discord bot
+- 
 ## Example usage
 
 **NODE JS**
